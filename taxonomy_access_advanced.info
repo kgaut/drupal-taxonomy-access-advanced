@@ -1,0 +1,5 @@
+name = Taxonomy Access Advanced
+description = Advanced management of permissions for taxonomy (based on roles and domains)
+dependencies[] = taxonomy
+package = MISC
+core = 7.x
